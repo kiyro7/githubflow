@@ -8,4 +8,4 @@ def print_1():
     return 1
 
 def print_2():
-    print(2)
+    return 2

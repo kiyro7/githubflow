@@ -1,2 +1,2 @@
-def summary(a, b):
-    return a + b
+def summary(a, c):
+    return a + c

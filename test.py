@@ -3,3 +3,9 @@ def multiply(a, c):
 
 def summary(a, c):
     return a + c
+
+
+def div(a, b):
+    if b != 0:
+        return a / b
+    return ValueError

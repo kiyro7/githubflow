@@ -3,3 +3,6 @@ def multiply(a, c):
 
 def summary(a, c):
     return a + c
+
+def print_2():
+    print(2)

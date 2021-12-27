@@ -5,7 +5,7 @@ def summary(a, c):
     return a + c
 
 
-def div(a, b):
+def div(c, b):
     if b != 0:
-        return a / b
+        return c / b
     return ValueError
